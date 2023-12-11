@@ -1,4 +1,5 @@
 // String method
+
 /*
 
 1. -> length                   7. -> UpperCase()             13. -> padStart()            
@@ -15,8 +16,8 @@
 // 1.-> String length
 // console.log(data.length);           //  60
 
-// 2. -> slice()     
 
+// 2. -> slice()     
 // console.log(data.slice(5,12));               //  script 
 // console.log(data.slice(25));                //  most popular programming language.
 // console.log(data.slice(-12,-3));            //  ng langua
@@ -30,38 +31,31 @@
 
 
 // 4. -> substr()
-
 // console.log(data.substr(5,12));              //  script is th
 // console.log(data.substr(-15,12));            //  mming langua
 
 
 // 5. ->  UpperCase() 
-
 // console.log(data.toUpperCase());   //  JAVASCRIPT IS THE WOLD`S MOST POPULAR PROGRAMMING LANGUAGE.
 
 
 // 6. -> LowerCase() 
-
 // console.log(data.toLowerCase());   //  javascript is the wold`s most popular programming language.
 
 
 //  7. -> charAt()
-
 //  console.log(data.charAt(0));           //  J
 
 
 // 8. -> charCodeAt()
-
 // console.log(data.charCodeAt(0));        //  74
 
 
 // 9. -> concat() 
-
 // console.log(data.concat("srushti","patel"));  // joint this word backSide srushti patel
 
 
-
-// let data="JavaScript is the wolrd`s most popular programming language.world";
+// let data="JavaScript is the wolrd`s most popular programming language";
 
 // 10. -> replace()
 // console.log(data.replace("wold","surat")); 
@@ -75,21 +69,21 @@
 // let txt="      srushti patel        "
 // console.log(txt);
 // console.log(txt.trim());     // remove space
-// console.log("Lenth is :- "+(txt.trim()).length);
+// console.log("Length is :- "+(txt.trim()).length);
+
 
 // 13.  -> trimStart() 
 // let txt="     srushti patel       "
 // console.log(txt);
 // console.log(txt.trimStart());     // remove space from start
-// console.log("Lenth is :- "+(txt.trimStart()).length);
+// console.log("Length is :- "+(txt.trimStart()).length);
 
 
 // 14.  -> trimEnd() 
 // let txt="      srushti patel        "
 // console.log(txt);
 // console.log(txt.trimEnd());     // remove space from end
-// console.log("Lenth is :- "+(txt.trimEnd()).length);
-
+// console.log("Length is :- "+(txt.trimEnd()).length);
 
 
 // 15. -> pad start
@@ -103,6 +97,6 @@
 
 
 // 17. -> split()
-let data="Java$ sc$ript is the$ wolrd`s most $popular$ progra$mming lan$uage.$world";
-// console.log(data.split("$"));  // where $   change to string
+let data="Java scri$pt is the wolrd`s most popular programming language.";
+console.log(data.split(" "));  // where $   change to string
 console.log(data.split(""));     // singel char 
