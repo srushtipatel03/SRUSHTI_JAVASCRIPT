@@ -20,7 +20,6 @@
 // }
 
 
-
 // 2. Enter one value find its positive or negative.
 // let x = Number(prompt("Enter the x value :-"));
 // if((x>= 0)){
@@ -30,7 +29,6 @@
 //         console.log("Value of x is :-",+x);
 //         console.log("x is negative");
 //     }
-
 
 
 // 3. Enter one value find its divisible by 5 or not.
@@ -45,7 +43,6 @@
 // }
 
 
-
 // 4. Enter one value find its divisible by 5 and 3 or not.
 // let x = Number(prompt("Enter the x value :-"));
 // if((x % 5 == 0)&&(x % 3 == 0))
@@ -56,7 +53,6 @@
 // {
 //     console.log("Number is not divisible by 5 and 3 ");
 // }
-
 
 
 // 5. Enter Students marks whether pass or not.
@@ -102,7 +98,6 @@
 // }
 
 
-
 // 7. Enter a, b, c find largest among them.
 // let a = Number(prompt("Enter the a value :-"));
 // let b = Number(prompt("Enter the b value :-"));
@@ -118,7 +113,6 @@
 //     }else{
 //         console.log("c is gretest");
 //     }
-
 
  
 // 8. Electricity Unite Bill
@@ -145,7 +139,6 @@
 // console.log("Total amount to be paid: Rs. " + amount.toFixed(2));
 
 
-
 // 9 . eligebal for votting or not votting.
 
 // let age = Number(prompt("Enter the age:-"));
@@ -158,7 +151,6 @@
             
 //             console.log("eligebal for  Not votting");
 //         }
-
 
 
 // 10. gross salare calculate
@@ -186,7 +178,6 @@
 // console.log("Gross Salary: " + grossSalary);
 
 
-
 // 11 income tax
 
 // let income = Number(prompt("Enter the income:"));
@@ -203,7 +194,6 @@
 // }
 // console.log("The income is ",income);
 // console.log("The tax is",tax);
-
 
 
 // 12. Enter Students marks whether Grade.
