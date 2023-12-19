@@ -74,3 +74,5 @@ function isPerfectNumber(number) {
   console.log(isPerfectNumber(6)); // Output: true
   console.log(isPerfectNumber(28)); // Output: true
   console.log(isPerfectNumber(12)); // Output: false
+
+  
