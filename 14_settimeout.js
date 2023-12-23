@@ -271,7 +271,7 @@
     //     reject("Promise reject"); 
     // });
 
-    // // // // add other blocks of code
+    // // add other blocks of code
     // countValue
     // .then(result=>console.log(result))
     // .catch((err)=>console.log(err))
