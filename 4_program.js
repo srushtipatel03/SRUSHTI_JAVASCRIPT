@@ -97,7 +97,7 @@
 //      sum=sum+a;
 //      a++;
 //      console.log(sum);
-//         }
+// }
 
 // 13. total odd 1,3,5       
 // let sum = 0;

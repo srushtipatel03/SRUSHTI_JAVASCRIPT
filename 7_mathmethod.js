@@ -1,9 +1,9 @@
 //  Math Properties(Constants):- 
 
-//   1.>  Math.E                 5.>    Math.LN2
-//   2.> Math.PI                 6.>    Math.LN10
-//   3.> Math.SQRT2              7.>    Math.LOG2E    
-//   4.> Math.SQRT1_2            8.>    Math.LOG10E  
+//   1.> Math.E                 5.> Math.LN2
+//   2.> Math.PI                6.> Math.LN10
+//   3.> Math.SQRT2             7.> Math.LOG2E    
+//   4.> Math.SQRT1_2           8.> Math.LOG10E  
 
 
 //  1.> Math.E                            // returns Euler's number

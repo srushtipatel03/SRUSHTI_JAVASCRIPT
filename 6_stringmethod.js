@@ -11,27 +11,27 @@
 
 */
 
-// let data="JavaScript is the world`s most popular programming language.";
+let data="JavaScript is the world`s most popular programming language.";
 
 // 1.-> String length
 // console.log(data.length);           //  60
 
 
 // 2. -> slice()     
-// console.log(data.slice(5,12));               //  script 
-// console.log(data.slice(25));                //  most popular programming language.
-// console.log(data.slice(-12,-3));            //  ng langua
+// console.log(data.slice(5,12));               //  cript i 
+// console.log(data.slice(25));                // s most popular programming language.
+// console.log(data.slice(-12,-3));           //  ing langua
 
 
 // 3. -> substring() 
-// console.log(data.substring(5,12));              //  script 
-// console.log(data.substring(25));               //  most popular programming language.
-// console.log(data.substring(-12));              //  Java script is the wold`s most popular programming language.
-// console.log(data.substring(-12,-5));           // counting to 0
+// console.log(data.substring(5,12));              //  cript i
+// console.log(data.substring(25));             //  most popular programming language.
+// console.log(data.substring(-12));            //  Java script is the wold`s most popular programming language.
+// console.log(data.substring(-12,-5));         // counting to 0
 
 
 // 4. -> substr()
-// console.log(data.substr(5,12));              //  script is th
+// console.log(data.substr(5,12));              //  cript is the
 // console.log(data.substr(-15,12));            //  mming langua
 
 
@@ -48,14 +48,12 @@
 
 
 // 8. -> charCodeAt()
-// console.log(data.charCodeAt(0));        //  74
+// console.log(data.charCodeAt(1));        //  74
 
 
 // 9. -> concat() 
 // console.log(data.concat("srushti","patel"));  // joint this word backSide srushti patel
 
-
-// let data="JavaScript is the wolrd`s most popular programming language";
 
 // 10. -> replace()
 // console.log(data.replace("wold","surat")); 
@@ -97,6 +95,6 @@
 
 
 // 17. -> split()
-let data="Java scri$pt is the wolrd`s most popular programming language.";
-console.log(data.split(" "));  // where $   change to string
-console.log(data.split(""));     // singel char 
+// let data="Java scri$pt is the wolrd`s most popular programming language.";
+// console.log(data.split(" "));  // where change to string
+// console.log(data.split(""));     // singel char 

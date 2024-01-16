@@ -41,25 +41,25 @@
 // console.log(bat);
 // console.log(team);
 
-// 8.> Array sort  ==> shorting Element
+// 8.> Array sort  ==> sorting Element
 // const alfa = ['c','d','e','a','b'];
 // alfa.sort();
 // console.log(alfa);
 
-// 9.> Array Reverce  ==> shorting Element
+// 9.> Array Reverce  ==> sorting Element
 // const alfa = ['c','d','e','a','b'];
 // alfa.sort();
 // console.log(alfa.reverse());
 
-// let data = [11,22,33,44,55,66,77,88,99];
+let data = [11,22,33,44,55,66,77,88,99];
 
-// 13.>  Array Max ():-  ==> finde the array in Highet(Big)Number.
+// 13.>  Array Max ():-  ==> find the array in Highet(Big)Number.
 // MaxNum = (a) =>{
 // return Math.max.apply(null,a);
 // };
 // console.log(MaxNum(data))
 
-// 14.>  Array Min ():-  ==> finde the array in lowest (Small) Number.
+// 14.>  Array Min ():-  ==> find the array in lowest (Small) Number.
 // MinNum = (a) =>{
 // return Math.min.apply(null,a)
 // };
@@ -123,7 +123,7 @@
 
 // 24.> Array entries():-
 // let abc;
-//  abc = data.entries();
+// abc = data.entries();
 // console.log(abc.next().value);
 // console.log(abc.next().value);
 // console.log(abc.next().value);
